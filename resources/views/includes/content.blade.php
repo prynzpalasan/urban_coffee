@@ -23,10 +23,34 @@
     </section>
 
     <section>
-        <div class='grid grid-cols-3 flex items-center'>
-            <p>1</p>
-            <p>2</p>
-            <p>3</p>
+        <div class='w-full '>
+            <h1 class='w-2/3 mx-auto text-center text-5xl font-black'>
+                Our Products
+            </h1>
+        </div>
+        <div class="grid grid-cols-3 justify-items-center object-cover">
+            <div class="flex flex-col items-center p-6">
+                <div class="w-96 h-96 overflow-hidden shrink transform hover:scale-105 transition duration-300">
+                    <img class="object-cover w-full h-full" src="/img/1.jpg" alt="">
+                </div>
+                <p class="text-center font-black mt-5">Beef Shanks</p>
+                <p class="text-center font-light text-sm">Savor the rich, tender beef shanks served with a creamy sauce, paired with fresh veggies and rice. Perfect comfort food for your next visit!</p>
+            </div>
+            <div class="flex flex-col items-center p-6">
+                <div class="w-96 h-96 overflow-hidden shrink transform hover:scale-105 transition duration-300">
+                    <img class="object-cover w-full h-full" src="/img/2.jpg" alt="">
+                </div>
+                <p class="text-center font-black mt-5">Urban Coffee Beans</p>
+                <p class="text-center font-light text-sm">Bring the city to your cup with Urban Coffee Beans! Crafted for coffee shops and home brewers alike, experience the coolest roast in town.</p>
+            </div>
+            <div class="flex flex-col items-center p-6">
+                <div class="w-96 h-96 overflow-hidden shrink transform hover:scale-105 transition duration-300">
+                    <img class="object-cover w-full h-full" src="/img/3.jpg" alt="">
+                </div>
+                <p class="text-center font-black mt-5">Criss Cross Fries</p>
+                <p class="text-center font-light text-sm">Forks out, fingers in! Our Criss Cross Fries are the ultimate secret snack at Urban Coffee Studio. Crispy, golden, and ready to be devoured.</p>
+            </div>
         </div>
     </section>
+
 </div>

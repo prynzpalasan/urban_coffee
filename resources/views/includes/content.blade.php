@@ -4,7 +4,7 @@
         <div class='text-xl p-2'>
            <h1 class='w-2/3 mx-auto text-center text-5xl font-black text-black py-10'>
             Latest Events
-           </h1>
+         </h1>
         </div>
         <div class='grid grid-cols-2 text-white gap-8 '>
            <div class=' bg-pink-500 rounded-[30px] overflow-hidden'  data-aos="fade-right" data-aos-duration="900">
@@ -80,7 +80,7 @@
     </section>
 
 
-    <section class='max-w-7xl mx-auto'>
+    <section class='max-w-7xl mx-auto mb-20'>
         <div class=''>
             <h1 class='w-2/3 mx-auto text-center text-5xl font-black text-black py-10'>
                 Our Products
@@ -116,7 +116,7 @@
             </div>
         </div>
     </section>
-
+<!-- 
     <section class='my-10 max-w-7xl mx-auto'>
         <div class='flex flex-col justify-center gap-y-10 items-center'>
             <h1 class='w-full text-center text-5xl font-black'>
@@ -127,11 +127,11 @@
             </h1>
             <img src="/img/461771557_503757865769755_8827468246584646668_n.jpg" alt="">
         </div>
-    </section>
+    </section> -->
 
     
 
-    <section>
+    <!-- <section>
         <div class="max-w-md mx-auto bg-red-500 rounded-xl shadow-md overflow-hidden md:max-w-7xl p-20">
             <div class="md:flex">
                 <div class="md:shrink-0">
@@ -144,6 +144,6 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 </div>

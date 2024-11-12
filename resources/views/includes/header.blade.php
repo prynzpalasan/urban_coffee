@@ -1,7 +1,8 @@
 <div class=' bg-white w-full fixed  top-0 z-10'>
     <header class='flex justify-between items-center max-w-7xl mx-auto h-[97px]'>
-                <div class='max-w-2 h-auto'>
-                    <!-- <img src="https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-1/418193049_342737108538499_1982360122816376217_n.jpg?stp=c55.55.370.370a_dst-jpg_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=EsNFz6elaG0Q7kNvgFoVOw5&_nc_zt=24&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=AIc6acSXYSSE827Av2nL1gb&oh=00_AYBeG-SDqsY1gyz-DgnFR1-ldX2Slmg_PAX-2NnqqXXwbg&oe=6718E02C" class="" alt=""> -->
+                <div class='flex justify-center items-center'>
+                    <img src="/img/418193049_342737108538499_1982360122816376217_n.jpg" class="h-24 w-24" alt="">
+                    <a href="" class='font-bold text-4xl'>Urban Coffee Studio </a>
                 </div>
                 
                 <div class="-mx-3 flex space-x-4">
